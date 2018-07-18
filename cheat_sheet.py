@@ -142,3 +142,8 @@ print(dog.toString())
 dog.set_name("Alph")
 dog.set_breed("Lab")
 print(dog.toString())
+
+my name is nayan
+i am in goa
+going back to delhi
+
